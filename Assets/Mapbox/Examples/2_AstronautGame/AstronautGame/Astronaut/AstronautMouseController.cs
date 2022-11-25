@@ -158,6 +158,7 @@ namespace Mapbox.Examples
 		#region Character : Rotation
 		IEnumerator LookAtNextPos()
 		{
+			/*
 			Quaternion neededRotation = Quaternion.LookRotation(nextPos - character.transform.position);
 			Quaternion thisRotation = character.transform.localRotation;
 
@@ -169,6 +170,17 @@ namespace Mapbox.Examples
 				character.transform.rotation = Quaternion.Euler(0, rotationValue.eulerAngles.y, 0);
 				yield return null;
 			}
+			*/
+
+			// Siendo de esta forma no es realmente necesario mantener esto como una corutina
+			// pero se decidió preservarla para evitar manipular más código
+			// Idealmente se crearía una clase dedicada al nuevo funcionamiento con sprites.
+
+			yield return null;
+
+			// Realiza una rotación de forma que siempre mire a la cámara el sprite para generar un efecto Billboard
+			character.transform.LookAt(cam.transform.position);
+			character.transform.rotation = Quaternion.Euler(0, character.transform.rotation.eulerAngles.y, 0);
 		}
 		#endregion
 
