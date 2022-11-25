@@ -10,19 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 420705c61d1b6435c8aa7b1cbd0ce80a, type: 3}
-  m_Name: LocationGameSpawn2DTreeModifier
+  m_Name: SpawnInsideModifier House spawner
   m_EditorClassIdentifier: 
   Active: 1
-  _spawnRateInSquareMeters: 20
+  _spawnRateInSquareMeters: 60
   _maxSpawn: 1000
   _prefabs:
-  - {fileID: 1770149645188902, guid: 094794fd314e08546a36dfd9dd4c416c, type: 3}
-  - {fileID: 1770149645188902, guid: b8b76ec8c20e68f409ebd6f7b4173c7e, type: 3}
-  - {fileID: 1770149645188902, guid: 3d22470acc6ec2540b3fc4f3d168c000, type: 3}
-  - {fileID: 1770149645188902, guid: 07d7647a62174d444a7aeaf37e77b7be, type: 3}
+  - {fileID: 1770149645188902, guid: 3506d0346128a9045be3b9a2ae68edbb, type: 3}
+  - {fileID: 1770149645188902, guid: 6c10a26fe6132c2429226b8fdcb671bc, type: 3}
+  - {fileID: 1770149645188902, guid: 124023b0371efe949a39bf306c27ef8b, type: 3}
+  - {fileID: 1770149645188902, guid: 5eb19337f3aa33743b3a7094cb302177, type: 3}
   _layerMask:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 64
   _scaleDownWithWorld: 1
-  _randomizeScale: 1
+  _randomizeScale: 0
   _randomizeRotation: 0
