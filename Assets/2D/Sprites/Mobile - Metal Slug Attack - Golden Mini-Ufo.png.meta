@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: c1a1e8bd53e71014caeb2ddcae1612df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2868349496345688346
+    second: Idle
+  - first:
+      213: -7102775247661713887
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_5
+  - first:
+      213: -6349398554112141659
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_6
+  - first:
+      213: -6696304299218567007
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_7
+  - first:
+      213: 1529542292995223293
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_8
+  - first:
+      213: -3664763179391242166
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_9
+  - first:
+      213: 3821781556365542565
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_10
+  - first:
+      213: 2281272421306162520
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_11
+  - first:
+      213: 8615764865584145755
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_12
+  - first:
+      213: 1985289820726762528
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_13
+  - first:
+      213: -4192401919151823647
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_14
+  - first:
+      213: 1241906161169669530
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_15
+  - first:
+      213: -2163763048090766804
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_16
+  - first:
+      213: 2899817894278334767
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_17
+  - first:
+      213: 6252766446781546492
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_18
+  - first:
+      213: -7278522367073308654
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_19
+  - first:
+      213: 4668932819776311972
+    second: Moving 01
+  - first:
+      213: -8623963496987179768
+    second: Moving 02
+  - first:
+      213: 1477100868017328509
+    second: Moving 03
+  - first:
+      213: 1733010261755446657
+    second: Moving 04
+  - first:
+      213: 4346539122256710391
+    second: Moving 05
+  - first:
+      213: -6453034621341448769
+    second: Moving 06
+  - first:
+      213: 6984005527386403815
+    second: Moving 07
+  - first:
+      213: -2839191645246757672
+    second: Moving 08
+  - first:
+      213: 4160566864531779961
+    second: Moving 09
+  - first:
+      213: 1563317597973837305
+    second: Moving 10
+  - first:
+      213: -8513934346168232847
+    second: Moving 11
+  - first:
+      213: 5402560193342477711
+    second: Moving 12
+  - first:
+      213: -7314914832942842159
+    second: Moving 13
+  - first:
+      213: 7876110135120624270
+    second: Moving 14
+  - first:
+      213: -2872222005006737586
+    second: Moving 15
+  - first:
+      213: -8329804893474329788
+    second: Moving 16
+  - first:
+      213: -7018407076154616836
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_49
+  - first:
+      213: 376813892645656211
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_55
+  - first:
+      213: -783669130816603812
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_94
+  - first:
+      213: -8153867647341145355
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_98
+  - first:
+      213: -8833545382273082194
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_99
+  - first:
+      213: 5298885813473479976
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_100
+  - first:
+      213: -933060759338784999
+    second: Mobile - Metal Slug Attack - Golden Mini-Ufo_101
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 491
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19fa557bac6ec720800000000000000
+      internalID: 2868349496345688346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 01
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 373
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a21eea99a16bc040800000000000000
+      internalID: 4668932819776311972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 02
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 373
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c42624e6815880800000000000000
+      internalID: -8623963496987179768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 03
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 373
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d711897d967bf7410800000000000000
+      internalID: 1477100868017328509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 04
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 373
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1854a04b6a3ec0810800000000000000
+      internalID: 1733010261755446657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 05
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 373
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa03708d42025c30800000000000000
+      internalID: 4346539122256710391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 06
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 373
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb545a793373276a0800000000000000
+      internalID: -6453034621341448769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 07
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 372
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e33b39360c2ce060800000000000000
+      internalID: 6984005527386403815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 08
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 373
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d46fc7cd3a2998d0800000000000000
+      internalID: -2839191645246757672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 09
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 326
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9717da8058d4db930800000000000000
+      internalID: 4160566864531779961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 326
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5f852921502b510800000000000000
+      internalID: 1563317597973837305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 326
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17415a722dd68d980800000000000000
+      internalID: -8513934346168232847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 326
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8518d13fdfb9fa40800000000000000
+      internalID: 5402560193342477711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 326
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb43c27b33c7a90800000000000000
+      internalID: -7314914832942842159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 326
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8af7bf30709d4d60800000000000000
+      internalID: 7876110135120624270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 327
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f538bdd41d328d0800000000000000
+      internalID: -2872222005006737586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moving 16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 326
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be6242596966c80800000000000000
+      internalID: -8329804893474329788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
